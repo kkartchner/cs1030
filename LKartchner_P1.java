@@ -1,4 +1,4 @@
-public class KKartchner_P1 
+public class LKartchner_P1 
 {
    public static void main (String[] args) {
       double foodSalesTaxRate = .03; // Tax rate for food items
